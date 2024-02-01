@@ -18,6 +18,12 @@ function generateMarkdown(data) {
 
 ![badge](https://img.shields.io/badge/license-${data.license}-brightblue)<br />
 
+  <img src="https://img.shields.io/badge/Javascript-yellow" />
+  <img src="https://img.shields.io/badge/jQuery-blue"  />
+  <img src="https://img.shields.io/badge/-node.js-green" />
+  <img src="https://img.shields.io/badge/-inquirer-red" >
+  <img src="https://img.shields.io/badge/-screencastify-lightgrey" />
+
 ## Description
 
 - What was your motivation? Why did you build this project? What problem does it solve? What did you learn?
@@ -34,7 +40,7 @@ This was created using ${data.stack}.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+- What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ${data.installation}
 

@@ -54,10 +54,10 @@ return inquirer.prompt([
 
 async function init() {
    try{
-        const data = await promptModule();
-        const generateFile = generateReadme(data);
-fs.promises.writeFile('genREADME.md', generateFile);
-console.log('Sucess! Your professional README has been created!')
+    const data = await promptModule();
+    const generateFile = generateReadme(data);
+    fs.promises.writeFile('genREADME.md', generateFile);
+    console.log('Sucess! Your professional README has been created!')
    } catch(err) {
     console.log(err)
    }
