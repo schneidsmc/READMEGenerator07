@@ -14,7 +14,7 @@ function generateMarkdown(data) {
   <img src="https://img.shields.io/badge/jQuery-blue"  />
   <img src="https://img.shields.io/badge/-node.js-green" />
   <img src="https://img.shields.io/badge/-inquirer-red" >
-  <img src="https://img.shields.io/badge/-screencastify-lightgrey" />
+  <img src="https://img.shields.io/badge/-Markdown-lightgrey" />
 </div>
 
 ## Description 📚
@@ -42,6 +42,10 @@ ${data.installation}
 Provide instructions and examples for use.
 
 ${data.usage}
+
+## License ✅ 
+
+${data.license}
 
 ## Author 👋🏽
 
