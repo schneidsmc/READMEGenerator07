@@ -56,7 +56,7 @@ async function init() {
    try{
     const data = await promptModule();
     const generateFile = generateReadme(data);
-    fs.promises.writeFile('genREADME.md', generateFile);
+    fs.promises.writeFile('ExampleREADME.md', generateFile);
     console.log('Sucess! Your professional README has been created!')
    } catch(err) {
     console.log(err)

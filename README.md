@@ -1,7 +1,5 @@
 # Professional README Generator
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
-
 <div style= "text-align: center;">
 
   <!-- ![badge](https://img.shields.io/badge/license-${data.license}-brightblue)<br /> -->
