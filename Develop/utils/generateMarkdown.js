@@ -3,17 +3,19 @@
 function generateMarkdown(data) {
   return `
   
-<h1 align="center"> ${data.title} </h1>
+<h1 align="center">${data.title} </h1>
 
-<p align="center">
-![badge](https://img.shields.io/badge/license-${data.license}-brightblue)<br />
+<div style= "text-align: center;">
+
+  ![badge](https://img.shields.io/badge/license-${data.license}-brightblue)<br />
+
 
   <img src="https://img.shields.io/badge/Javascript-yellow" />
   <img src="https://img.shields.io/badge/jQuery-blue"  />
   <img src="https://img.shields.io/badge/-node.js-green" />
   <img src="https://img.shields.io/badge/-inquirer-red" >
   <img src="https://img.shields.io/badge/-screencastify-lightgrey" />
-</p>
+</div>
 
 ## Description
 

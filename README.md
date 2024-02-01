@@ -7,3 +7,10 @@
     <img src="https://img.shields.io/github/languages/top/schneidsmc/ReadMeGenerator07"  />
     <img src="https://img.shields.io/github/last-commit/schneidsmc/ReadMeGenerator07" >
 </p>
+
+
+  <img src="https://img.shields.io/badge/Javascript-yellow" />
+  <img src="https://img.shields.io/badge/jQuery-blue"  />
+  <img src="https://img.shields.io/badge/-node.js-green" />
+  <img src="https://img.shields.io/badge/-inquirer-red" >
+  <img src="https://img.shields.io/badge/-screencastify-lightgrey" />
