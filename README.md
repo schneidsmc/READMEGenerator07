@@ -63,6 +63,8 @@ This project can be initiated by typing `node index.js` into the integrated term
 
 ## Demonstration
 
+Click [here](https://youtu.be/07U2oe4pPt8) to view the demonstration on youtube.com.
+
 <img src="./Develop/utils/Screen Recording 2024-02-01 at 3.11.08 PM.gif" alt="gif demonstration" width="300" height="auto">
 
 ## Author 👋🏽
