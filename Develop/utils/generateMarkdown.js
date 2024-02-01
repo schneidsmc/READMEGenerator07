@@ -27,9 +27,9 @@ This was created using ${data.stack}.
 
 ## Table of Contents 
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Author](#author)
+- [Installation](#installation-📋)
+- [Usage](#usage-🏁)
+- [Author](#author-👋🏽)
 
 ## Installation 📋
 

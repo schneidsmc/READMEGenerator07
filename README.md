@@ -4,7 +4,7 @@
 
 <div style= "text-align: center;">
 
-  ![badge](https://img.shields.io/badge/license-${data.license}-brightblue)<br />
+  <!-- ![badge](https://img.shields.io/badge/license-${data.license}-brightblue)<br /> -->
 
   <img src="https://img.shields.io/github/repo-size/schneidsmc/ReadMeGenerator07" />
   <img src="https://img.shields.io/github/languages/top/schneidsmc/ReadMeGenerator07" />
@@ -17,6 +17,15 @@
   <img src="https://img.shields.io/badge/-inquirer-red" >
   <img src="https://img.shields.io/badge/-Markdown-lightgrey" />
 </div>
+
+## Table of Contents 
+
+- [User-Story](#user-story)
+- [Acceptance-Criteria](#acceptance-criteria)
+- [Installation](#installation-📋)
+- [Usage](#usage-🏁)
+- [Demonstration](#demonstration)
+- [Author](#author-👋🏽)
 
 ## User Story
 
@@ -33,21 +42,13 @@ GIVEN a command-line application that accepts user input
 - WHEN I enter my email address THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 - WHEN I click on the links in the Table of Contents THEN I am taken to the corresponding section of the README
 
-
-
 ## Description 📚
 
 - What was your motivation? Why did you build this project? What problem does it solve? What did you learn?
 
 This project was created to expedite the process to create a README.md file. It was built to prompt the creator with a set of questions that automatically fill in an outline for a professional Read Me file using the outline from GitHub.
 
-This was created using HTML,CSS,Markdown,Javascript,JQuery,NodeJS.
-
-## Table of Contents 
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Author](#author)
+This was created using HTML,CSS,Markdown,Javascript,JQuery,NodeJS. We were given starter code with the layout for the folders, markdown.js and the index.js file. 
 
 ## Installation 📋
 
@@ -60,6 +61,10 @@ This project can be installed by typing `npm init` and `npm install` into the in
 Provide instructions and examples for use.
 
 This project can be initiated by typing `node index.js` into the integrated terminal.
+
+## Demonstration
+
+<img src="./Develop/utils/Screen Recording 2024-02-01 at 3.11.08 PM.gif" alt="gif demonstration" width="300" height="auto">
 
 ## Author 👋🏽
 
