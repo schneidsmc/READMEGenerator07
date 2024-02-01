@@ -1,13 +1,10 @@
 
-// TODO: Create a function to generate markdown for README
-function generateMarkdown(data) {
-  return `
   
-<h1 align="center">${data.title} </h1>
+<h1 align="center">Read Me Generator </h1>
 
 <div style= "text-align: center;">
 
-  ![badge](https://img.shields.io/badge/license-${data.license}-brightblue)<br />
+  ![badge](https://img.shields.io/badge/license-MIT-brightblue)<br />
 
 
   <img src="https://img.shields.io/badge/Javascript-yellow" />
@@ -21,9 +18,9 @@ function generateMarkdown(data) {
 
 - What was your motivation? Why did you build this project? What problem does it solve? What did you learn?
 
-${data.description}
+This project was created to expedite the process to create a README.md file. It was built to prompt the creator with a set of questions that automatically fill in an outline for a professional Read Me file using the outline from GitHub.
 
-This was created using ${data.stack}.
+This was created using HTML,CSS,Markdown,Javascript,JQuery,NodeJS.
 
 ## Table of Contents 
 
@@ -35,23 +32,19 @@ This was created using ${data.stack}.
 
 - What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
-${data.installation}
+This project can be installed by typing `npm init` and `npm install` into the integrated terminal.
 
 ## Usage 🏁
 
 Provide instructions and examples for use.
 
-${data.usage}
+This project can be initiated by typing `node index.js` into the integrated terminal.
 
 ## Author 👋🏽
 
-GitHub Username: [${data.username}](https://github.com/${data.username})
+GitHub Username: [schneidsmc](https://github.com/schneidsmc)
 
-📧 Email: ${data.email}
+📧 Email: schneidmsc@gmail.com
 
-This README was created with ❤️ using README Generator 👏🏽👏🏽
+Created using README Generator 👏🏽👏🏽
 
-`;
-}
-
-module.exports = generateMarkdown;
