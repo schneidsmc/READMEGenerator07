@@ -1,12 +1,15 @@
 
   
-<h1 align="center">Read Me Generator </h1>
+<h1 align="center">TESTING </h1>
 
-<div style= "text-align: center;">
+<div style= "text-align: center">
 
-  ![badge](https://img.shields.io/badge/license-MIT-brightblue)<br />
-
-
+  <img src="https://img.shields.io/github/repo-size/schneidsmc/employeeTracker10" />
+  <img src="https://img.shields.io/github/languages/top/schneidsmc/employeeTracker10" />
+  <img src="https://img.shields.io/github/last-commit/schneidsmc/employeeTracker10" />
+<br />
+![badge](https://img.shields.io/badge/license--brightblue)<br />
+<br />
   <img src="https://img.shields.io/badge/Javascript-yellow" />
   <img src="https://img.shields.io/badge/jQuery-blue"  />
   <img src="https://img.shields.io/badge/-node.js-green" />
@@ -18,32 +21,46 @@
 
 - What was your motivation? Why did you build this project? What problem does it solve? What did you learn?
 
-This project was created to expedite the process to create a README.md file. It was built to prompt the creator with a set of questions that automatically fill in an outline for a professional Read Me file using the outline from GitHub.
+jkljkl
 
 This was created using HTML,CSS,Markdown,Javascript,JQuery,NodeJS.
 
 ## Table of Contents 
 
+- [User-Story](#user-story)
+- [Acceptance-Criteria](#acceptance-criteria)
 - [Installation](#installation-📋)
 - [Usage](#usage-🏁)
-- [License](#license-✅)
+- [Demonstration](#demonstration)
 - [Author](#author-👋🏽)
+
+## User Story
+
+## Acceptance Criteria
 
 ## Installation 📋
 
 - What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
-This project can be installed by typing `npm init` and `npm install` into the integrated terminal.
+jfklds
 
 ## Usage 🏁
 
 Provide instructions and examples for use.
 
-This project can be initiated by typing `node index.js` into the integrated terminal.
+jfklds
+
+## Demonstration
+
+LINK SYNTAX
+[here]( )
+
+IMAGE SYNTAX 
+<img src="" alt="description" width="300" height="auto"> 
 
 ## License ✅ 
 
-MIT
+
 
 ## Author 👋🏽
 

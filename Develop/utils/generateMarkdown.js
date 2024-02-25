@@ -5,10 +5,13 @@ function generateMarkdown(data) {
   
 <h1 align="center">${data.title} </h1>
 
-<div style= "text-align: center;">
+<div style= "text-align: center">
 
-  ![badge](https://img.shields.io/badge/license-${data.license}-brightblue)<br />
-
+  <img src="https://img.shields.io/github/repo-size/schneidsmc/employeeTracker10" />
+  <img src="https://img.shields.io/github/languages/top/schneidsmc/employeeTracker10" />
+  <img src="https://img.shields.io/github/last-commit/schneidsmc/employeeTracker10" />
+<br />
+![badge](https://img.shields.io/badge/license-${data.license}-brightblue)<br />
 
   <img src="https://img.shields.io/badge/Javascript-yellow" />
   <img src="https://img.shields.io/badge/jQuery-blue"  />
@@ -27,10 +30,16 @@ This was created using ${data.stack}.
 
 ## Table of Contents 
 
+- [User-Story](#user-story)
+- [Acceptance-Criteria](#acceptance-criteria)
 - [Installation](#installation-📋)
 - [Usage](#usage-🏁)
-- [License](#license-✅)
+- [Demonstration](#demonstration)
 - [Author](#author-👋🏽)
+
+## User Story
+
+## Acceptance Criteria
 
 ## Installation 📋
 
@@ -43,6 +52,14 @@ ${data.installation}
 Provide instructions and examples for use.
 
 ${data.usage}
+
+## Demonstration
+
+LINK SYNTAX
+[here]( )
+
+IMAGE SYNTAX 
+<img src="" alt="description" width="300" height="auto"> 
 
 ## License ✅ 
 

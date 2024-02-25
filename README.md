@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/github/languages/top/schneidsmc/ReadMeGenerator07" />
   <img src="https://img.shields.io/github/last-commit/schneidsmc/ReadMeGenerator07" />
 
+
 <br />
 
   <img src="https://img.shields.io/badge/Javascript-yellow" />
@@ -15,6 +16,7 @@
   <img src="https://img.shields.io/badge/-node.js-green" />
   <img src="https://img.shields.io/badge/-inquirer-red" >
   <img src="https://img.shields.io/badge/-Markdown-lightgrey" />
+  <img src="https://img.shields.io/badge/-Jest-pink" />
 </div>
 
 ## Table of Contents 
