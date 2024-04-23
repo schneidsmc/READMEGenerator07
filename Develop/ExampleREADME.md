@@ -1,6 +1,6 @@
 
   
-<h1 align="center">Journey Jot </h1>
+<h1 align="center">React Portfolio </h1>
 
 <div style= "text-align: center">
 
@@ -21,9 +21,9 @@
 
 - What was your motivation? Why did you build this project? What problem does it solve? What did you learn?
 
-Organize your trips and treks with JourneyJot! This application will allow users to log and track different trips or adventures as well as create a suggested packing list. This application will also give you the weather for where you are going so you can make sure you are prepared for anything Mother Nature throws your way. The user can refer to the trips from the past and remember the details, favorites stops and great memories.
+creates portfolio
 
-This was created using HTML,CSS,Markdown,Javascript,JQuery,NodeJS.
+This was created using HTML,CSS,Markdown,Javascript,NodeJS.
 
 ## Table of Contents 
 
@@ -42,13 +42,13 @@ This was created using HTML,CSS,Markdown,Javascript,JQuery,NodeJS.
 
 - What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
-npm i 
+nom i
 
 ## Usage 🏁
 
 Provide instructions and examples for use.
 
-
+npm i
 
 ## Demonstration
 

@@ -13,11 +13,15 @@ function generateMarkdown(data) {
 <br />
 ![badge](https://img.shields.io/badge/license-${data.license}-brightblue)<br />
 
-  <img src="https://img.shields.io/badge/Javascript-yellow" />
-  <img src="https://img.shields.io/badge/jQuery-blue"  />
-  <img src="https://img.shields.io/badge/-node.js-green" />
-  <img src="https://img.shields.io/badge/-inquirer-red" >
-  <img src="https://img.shields.io/badge/-Markdown-lightgrey" />
+
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
+![mySql Badge](https://img.shields.io/badge/MySQL%20-%20%234479A1?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=white)
+![Node.js Badge](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&labelColor=black)
+![Sequelize Badge](https://img.shields.io/badge/sequelize%20-%20%2352B0E7?style=for-the-badge&logo=sequelize&labelColor=black)
+![Tailwind Badge](https://img.shields.io/badge/tailwind%20css%20-%20%2306B6D4?style=for-the-badge&logo=tailwindcss&labelColor=black)
+![esLint Badge](https://img.shields.io/badge/ESLint%20-%20%234B32C3?style=for-the-badge&logo=eslint&labelColor=black)
+![Prettier Badge](https://img.shields.io/badge/prettier%20-%20%23F7B93E?style=for-the-badge&logo=prettier&labelColor=black)
+![dot env Badge](https://img.shields.io/badge/handlebars%20-%20%23000000?style=for-the-badge&logo=handlebarsdotjs&labelColor=black)
 </div>
 
 ## Description 📚
